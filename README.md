@@ -1,5 +1,3 @@
-<img width="100%" src="https://t4.ftcdn.net/jpg/20/96/10/41/240_F_2096104182_zFEtWQrwpUo2FMnyEQzXsJZwKskN62ei.jpg" />
-
 <h1 align="center">Fouzia Khan</h1>
 <p align="center"><b>AI &amp; Machine Learning Developer</b></p>
 
@@ -13,9 +11,9 @@
 
 ## 🧠 About Me
 
-I build AI applications that actually work in the real world not just demos. My focus is on **Large Language Models, Retrieval-Augmented Generation, and applied machine learning**, across domains like healthcare, mental health, and e-commerce.
+I build AI applications that actually work in the real world — not just demos. My focus is on **Large Language Models, Retrieval-Augmented Generation, and applied machine learning**, across domains like healthcare, mental health, and e-commerce.
 
-I care about the full picture: a good model is only half the job the retrieval pipeline, the API layer, and the interface people actually use matter just as much. That end-to-end thinking is what I bring to every project.
+I care about the full picture: a good model is only half the job — the retrieval pipeline, the API layer, and the interface people actually use matter just as much. That end-to-end thinking is what I bring to every project.
 
 Currently open to opportunities in **AI/ML Development** and **Software Engineering**.
 
@@ -25,8 +23,8 @@ Currently open to opportunities in **AI/ML Development** and **Software Engineer
 
 - 🔗 Production-style RAG pipelines using LangChain, FAISS, and Knowledge Graphs
 - ⚡ LLM-powered applications with Groq LLaMA and Hugging Face models
-- 🏥 Machine learning for healthcare diagnostics, medical report analysis, disease prediction
-- 🖥️ Full-stack delivery Django, Flask, FastAPI, and React on top of the AI layer
+- 🏥 Machine learning for healthcare — diagnostics, medical report analysis, disease prediction
+- 🖥️ Full-stack delivery — Django, Flask, FastAPI, and React on top of the AI layer
 
 <br>
 
@@ -96,9 +94,9 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <br>
 
-## Core Strengths
+## 💪 Core Strengths
 
-→ End-to-end AI system design from retrieval pipeline to deployed interface
+→ End-to-end AI system design — from retrieval pipeline to deployed interface
 → Backend development and API integration
 → Full-stack delivery across Python, PHP, and JavaScript
 → Strong grounding in OOP and system design principles
@@ -108,4 +106,4 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<p align="center"><i>Always building, always learning open to opportunities.</i></p>
+<p align="center"><i>Always building, always learning — open to opportunities.</i></p>
