@@ -68,7 +68,7 @@ Currently open to opportunities in **AI/ML Development** and **Software Engineer
 ### 🩺 Medreport AI
 A medical report analysis dashboard that parses lab results and runs a RAG pipeline over reference ranges using FAISS, flagging abnormal blood parameters by severity. Built with Python, Streamlit, and Groq LLaMA 3.1.
 
-### 🩻 ChestScan AI
+### ChestScan AI
 Chest X-ray analysis tool that generates automated radiology reports with confidence scoring, exportable as PDF, powered by the Groq LLaMA Vision API and a React frontend.
 
 ### 🧑‍💼 HireIQ — AI Talent Screener
@@ -106,4 +106,4 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<p align="center"><i>Always building, always learning — open to opportunities.</i></p>
+<p align="center"><i>Always building, always learning open to opportunities.</i></p>
