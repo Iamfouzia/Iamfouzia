@@ -92,13 +92,13 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <br>
 
-##  Core Strengths
+## Core Strengths
 
-✅ End-to-end AI system design — from retrieval pipeline to deployed interface
-✅ Backend development and API integration
-✅ Full-stack delivery across Python, PHP, and JavaScript
-✅ Strong grounding in OOP and system design principles
-✅ Comfortable moving between research-style ML work and production code
+→ End-to-end AI system design from retrieval pipeline to deployed interface
+→ Backend development and API integration
+→ Full-stack delivery across Python, PHP, and JavaScript
+→ Strong grounding in OOP and system design principles
+→ Comfortable moving between research-style ML work and production code
 
 <br>
 
