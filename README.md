@@ -2,99 +2,107 @@
 
 # Hi, I'm Fouzia Khan 👋
 
-### AI/ML Developer | Generative AI & LLM Applications | Building Intelligent Systems
+### AI & Machine Learning Developer building intelligent, real-world solutions
 
 </div>
 
----
+<br>
 
 ## 🧠 About Me
 
-I'm passionate about building **AI-powered applications** that solve real-world problems — from healthcare and mental wellness to e-commerce and education. I specialize in working with **LLMs, RAG pipelines, LangChain, and multimodal AI systems**, combined with solid full-stack development skills.
+I'm passionate about building AI-powered applications that solve real-world problems in healthcare, education, and everyday life. I specialize in working with large language models, retrieval-augmented generation, and intelligent chatbot systems, combined with strong full-stack development skills.
 
-I love turning complex AI concepts into practical, user-friendly tools.
+I enjoy turning complex AI concepts into practical, user-friendly tools that people can actually use.
 
----
+<br>
 
 ## 🎯 Current Focus
 
-- Building GenAI-powered chatbots and assistants using LangChain, Groq, and Hugging Face
-- Designing RAG (Retrieval-Augmented Generation) pipelines with FAISS and Knowledge Graphs
-- Applying Machine Learning for healthcare use cases (disease prediction, medical report analysis)
-- Developing full-stack applications with Django, Flask, and the MERN stack
+🔹 Building GenAI powered chatbots and assistants using LangChain, Groq, and Hugging Face
 
----
+🔹 Designing retrieval augmented generation pipelines with FAISS and Knowledge Graphs
+
+🔹 Applying machine learning to healthcare use cases such as disease prediction and medical report analysis
+
+🔹 Developing full stack applications using Django, Flask, and modern JavaScript frameworks
+
+<br>
 
 ## ⚡ Tech Stack
 
-**Languages:** Python · JavaScript · PHP · SQL
+**Languages**
+🐍 Python 🟨 JavaScript 🐘 PHP 🗄️ SQL
 
-**AI / ML / GenAI:** LangChain · RAG · Groq LLaMA · Hugging Face Transformers · FAISS Vector Search · Knowledge Graphs (Neo4j) · Machine Learning · Deep Learning
+**AI, Machine Learning & GenAI**
+🔗 LangChain 📚 RAG 🦙 Groq LLaMA 🤗 Hugging Face Transformers 🔍 FAISS Vector Search 🕸️ Knowledge Graphs 🧠 Machine Learning 🧬 Deep Learning
 
-**Frameworks & Tools:** Flask · Django · FastAPI · Streamlit · React · Dialogflow
+**Frameworks & Tools**
+🌶️ Flask 🎯 Django ⚡ FastAPI 📊 Streamlit ⚛️ React 💬 Dialogflow
 
-**Databases:** MySQL · SQL
+**Databases**
+🗃️ MySQL
 
-**Platforms:** Git · GitHub · Google Colab
+**Platforms**
+🔧 Git 🐙 GitHub 📓 Google Colab
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-### 🩺 [Medreport-AI](https://github.com/Iamfouzia/Medreport-AI)
-AI-powered medical report analysis dashboard built with Python, Streamlit, and Groq LLaMA 3.1. Features a RAG pipeline with FAISS vector search, blood parameter visualization, and severity assessment.
+**🩺 Medreport AI**
+AI powered medical report analysis dashboard built with Python, Streamlit, and Groq LLaMA 3.1, featuring a RAG pipeline with FAISS vector search and severity assessment.
 
-### 🫁 [chestscan-ai](https://github.com/Iamfouzia/chestscan-ai)
-AI-powered chest X-ray analysis tool using React and the Groq LLaMA Vision API. Generates automated radiology reports with confidence scoring and PDF export.
+**🫁 ChestScan AI**
+AI powered chest X ray analysis tool using React and the Groq LLaMA Vision API, generating automated radiology reports with confidence scoring and PDF export.
 
-### 🧑‍⚕️ [HireIQ-AI-Talent-Screener](https://github.com/Iamfouzia/HireIQ-AI-Talent-Screener)
-AI-powered resume screening system using a RAG pipeline, Knowledge Graph (Neo4j), FAISS vector search, and Groq LLM for intelligent candidate ranking, scoring, and shortlisting.
+**🧑‍💼 HireIQ AI Talent Screener**
+AI powered resume screening system using a RAG pipeline, a Knowledge Graph, and FAISS vector search for intelligent candidate ranking and shortlisting.
 
-### 💬 [SafeSpace-AI-Therapist-Chatbot](https://github.com/Iamfouzia/Safespace-Ai-Therapist-Chatbot)
-AI mental health therapist built with LangChain, Groq LLaMA, FastAPI & Streamlit. Features crisis detection, emergency email alerts, and empathetic CBT-based conversations.
+**💬 SafeSpace AI Therapist Chatbot**
+AI mental health therapist built with LangChain, Groq LLaMA, FastAPI, and Streamlit, featuring crisis detection and empathetic CBT based conversations.
 
-### 🧠 [MindEase-AI-Mental-Health](https://github.com/Iamfouzia/MindEase-AI-Mental-Health)
-AI-powered mental health chatbot built with Flask, Python, and Hugging Face. Features real-time emotion detection, CBT-based responses, and multilingual support.
+**🧠 MindEase AI Mental Health**
+AI powered mental health chatbot built with Flask and Hugging Face, featuring real time emotion detection and multilingual support.
 
-### 🎙️ [AI-Voice-Cloning](https://github.com/Iamfouzia/AI-Voice-Cloning)
-AI-based voice cloning using Text-to-Speech (TTS) models for realistic voice synthesis.
+**🎙️ AI Voice Cloning**
+AI based voice cloning system using text to speech models for realistic voice synthesis.
 
-### 🧬 [Parkinsons-Disease-Prediction](https://github.com/Iamfouzia/parkinsons-disease-prediction)
-ML model to predict Parkinson's disease from voice features using Random Forest (92% accuracy), including EDA, cross-validation, and GridSearchCV tuning.
+**🧬 Parkinson's Disease Prediction**
+Machine learning model predicting Parkinson's disease from voice features using Random Forest with 92 percent accuracy.
 
-### 🛍️ [ai-fashion-sales-assistant](https://github.com/Iamfouzia/ai-fashion-sales-assistant)
-Full-stack MERN chatbot with LangChain and OpenAI integration for product recommendations, order tracking, and conversational shopping.
+**🛍️ AI Fashion Sales Assistant**
+Full stack chatbot with LangChain and OpenAI integration for product recommendations, order tracking, and conversational shopping.
 
-### 🏫 [E-Classroom-Hub-Django](https://github.com/Iamfouzia/E-Classroom-Hub-Django)
-Django-based online classroom management system for teachers and students — assignment uploads, marks management, signup, messaging, and a notice board.
+**🏫 E Classroom Hub**
+Django based online classroom management system with assignment uploads, marks management, and messaging.
 
-### 🛒 [Ministore](https://github.com/Iamfouzia/Ministore)
-Full-featured online shopping website with cart, checkout, and an admin panel for managing products and orders. Built with HTML, CSS, and JavaScript.
+**🛒 Ministore**
+Full featured online shopping website with a shopping cart, checkout, and an admin panel for managing products and orders.
 
----
+<br>
 
 ## 📊 Other Projects
 
-- **AI Machine Learning Projects** — Collection of ML/AI projects including voice cloning, heart disease prediction, and social media analysis
-- **Currency-Converter-Chatbot** — Currency converter chatbot using Python and Dialogflow
-- **Online-Examination-Management-System** — PHP & MySQL based exam system with timed quizzes and instant results
-- **AutoShorts-AI** — Python-based AI automation project
-- **Student-Registration-Form** — PHP-based registration system
+⭐ AI and Machine Learning Projects Collection
+⭐ Currency Converter Chatbot
+⭐ Online Examination Management System
+⭐ AutoShorts AI
+⭐ Student Registration System
 
----
+<br>
 
 ## 🌱 Core Strengths
 
-- Strong grasp of LLM-based application development & RAG architectures
-- AI system design and real-world integration
-- Backend development and API integration
-- Full-stack development across Python, PHP, and JavaScript ecosystems
-- Solid understanding of OOP and system design principles
+✔️ Strong grasp of LLM based application development and RAG architectures
+✔️ AI system design and real world integration
+✔️ Backend development and API integration
+✔️ Full stack development across Python, PHP, and JavaScript
+✔️ Solid understanding of object oriented programming and system design
 
----
+<br>
 
 <div align="center">
 
-### 🚀 Open to opportunities in AI/ML & Software Development
+### 🌟 Open to opportunities in AI, Machine Learning, and Software Development
 
 </div>
