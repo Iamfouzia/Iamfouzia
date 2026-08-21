@@ -1,4 +1,4 @@
-<h1 align="center">Fouzia Khan</h1>
+<h1 align="center">Hello, I'm Fouzia Khan 👋</h1>
 <p align="center"><b>AI &amp; Machine Learning Developer</b></p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-I build AI applications that actually work in the real world — not just demos. My focus is on **Large Language Models, Retrieval-Augmented Generation, and applied machine learning**, across domains like healthcare, mental health, and e-commerce.
+I build AI applications that actually work in the real world not just demos. My focus is on **Large Language Models, Retrieval-Augmented Generation, and applied machine learning**, across domains like healthcare, mental health, and e-commerce.
 
-I care about the full picture: a good model is only half the job — the retrieval pipeline, the API layer, and the interface people actually use matter just as much. That end-to-end thinking is what I bring to every project.
+I care about the full picture: a good model is only half the job the retrieval pipeline, the API layer, and the interface people actually use matter just as much. That end-to-end thinking is what I bring to every project.
 
 Currently open to opportunities in **AI/ML Development** and **Software Engineering**.
 
@@ -23,8 +23,8 @@ Currently open to opportunities in **AI/ML Development** and **Software Engineer
 
 - 🔗 Production-style RAG pipelines using LangChain, FAISS, and Knowledge Graphs
 - ⚡ LLM-powered applications with Groq LLaMA and Hugging Face models
-- 🏥 Machine learning for healthcare — diagnostics, medical report analysis, disease prediction
-- 🖥️ Full-stack delivery — Django, Flask, FastAPI, and React on top of the AI layer
+- 🏥 Machine learning for healthcare diagnostics, medical report analysis, disease prediction
+- 🖥️ Full-stack delivery Django, Flask, FastAPI, and React on top of the AI layer
 
 <br>
 
@@ -72,7 +72,7 @@ A medical report analysis dashboard that parses lab results and runs a RAG pipel
 Chest X-ray analysis tool that generates automated radiology reports with confidence scoring, exportable as PDF, powered by the Groq LLaMA Vision API and a React frontend.
 
 ### 🧑‍💼 HireIQ — AI Talent Screener
-Resume screening system that ranks candidates against job requirements using a RAG pipeline, a knowledge graph, and FAISS vector search — built to cut through generic keyword matching.
+Resume screening system that ranks candidates against job requirements using a RAG pipeline, a knowledge graph, and FAISS vector search built to cut through generic keyword matching.
 
 ### 💬 SafeSpace — AI Therapist
 A mental health support chatbot with real-time crisis detection and automated emergency alerts, built on LangChain, Groq LLaMA, and FastAPI, served through Streamlit.
@@ -94,9 +94,9 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <br>
 
-## 💪 Core Strengths
+## Core Strengths
 
-→ End-to-end AI system design — from retrieval pipeline to deployed interface
+→ End-to-end AI system design from retrieval pipeline to deployed interface
 → Backend development and API integration
 → Full-stack delivery across Python, PHP, and JavaScript
 → Strong grounding in OOP and system design principles
