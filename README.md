@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/fouzia-khan-35a73a258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Iamfouzia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:fouziiakhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
@@ -66,7 +67,7 @@ Currently open to opportunities in **AI/ML Development** and **Software Engineer
 ### 🩺 Medreport AI
 A medical report analysis dashboard that parses lab results and runs a RAG pipeline over reference ranges using FAISS, flagging abnormal blood parameters by severity. Built with Python, Streamlit, and Groq LLaMA 3.1.
 
-### 🫁 ChestScan AI
+### 🩻 ChestScan AI
 Chest X-ray analysis tool that generates automated radiology reports with confidence scoring, exportable as PDF, powered by the Groq LLaMA Vision API and a React frontend.
 
 ### 🧑‍💼 HireIQ — AI Talent Screener
@@ -92,9 +93,9 @@ An online storefront with cart, checkout, and an admin panel for managing produc
 
 <br>
 
-## Core Strengths
+## 💪 Core Strengths
 
-→ End-to-end AI system design from retrieval pipeline to deployed interface
+→ End-to-end AI system design — from retrieval pipeline to deployed interface
 → Backend development and API integration
 → Full-stack delivery across Python, PHP, and JavaScript
 → Strong grounding in OOP and system design principles
